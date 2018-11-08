@@ -1,3 +1,3 @@
 # GamingTips
 
-<a href ="https://fearclan27.github.io/GamingTips/Gamingtips.html">Go here</a>
+<a href ="https://gamingtips.github.io/GamingTips/Gamingtips.html">Go here</a>
